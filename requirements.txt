@@ -25,8 +25,10 @@ defusedxml==0.7.1
 et_xmlfile==2.0.0
 executing==2.2.0
 fastjsonschema==2.21.1
+filelock==3.18.0
 fonttools==4.56.0
 fqdn==1.5.1
+gdown==5.2.0
 geoviews==1.14.0
 h11==0.14.0
 holoviews==1.20.2
@@ -57,6 +59,7 @@ jupyterlab==4.3.6
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.13
+kaleido==0.2.1
 kiwisolver==1.4.8
 linkify-it-py==2.0.3
 llvmlite==0.44.0
@@ -101,6 +104,7 @@ Pygments==2.19.1
 pyparsing==3.2.1
 pyproj==3.7.1
 pyshp==2.3.1
+PySocks==1.7.1
 pyspark==3.5.5
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
